@@ -1,5 +1,5 @@
-# AI Customer Service.
-
+# Customer Service.
+Jo-Tech 
 An AI-powered customer service platform built with Python and FastAPI.
 
 The goal of this project is to build a production-ready Software as a Service (SaaS) that enables businesses to provide AI-powered customer support through a web chat interface, with the ability to upload company documents, answer customer questions, manage conversations, and integrate with messaging platforms like WhatsApp.
