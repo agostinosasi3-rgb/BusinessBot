@@ -1,4 +1,4 @@
-# AI Customer Service SaaS
+# AI Customer Service.
 
 An AI-powered customer service platform built with Python and FastAPI.
 
